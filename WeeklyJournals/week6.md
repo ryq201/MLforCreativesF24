@@ -3,7 +3,7 @@
 ## Week 6
 For this two week long project, I decided to go back to an idea I previously worked on a few weeks back, which was the body painter. I really enjoyed working on that project, and there were a number of features that I wished to include but was not able to get to. However, I did not want to simply build my code off of the pre-existing project, but to reimagine and reimplement the ideas I worked on. A one sentence summary of the project could be:
 
-A painting project that illustrates and captures the movement of a subject. 
+"A painting project that illustrates and captures the movement of a subject."
 
 Something that I was unsatisfied with while working on the previous body painter was how it did not capture movement very well. The canvas quickly became blurred by a silhouette, and drawing with a singular finger was tedious. I also wanted more visual feedback that communicated movement, but did not require a specific action by the user. 
 
