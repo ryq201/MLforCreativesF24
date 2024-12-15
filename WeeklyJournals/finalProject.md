@@ -1,5 +1,5 @@
 # Final Project
-## “Synesthesia” Music Box
+## Illustrative Music Box
 
 “A music/jukebox that is played through a submitted drawing”
 
