@@ -17,9 +17,12 @@ Although I did not get a chance to user test my project outside of class, the de
 
 The reference I was most dependent on was the original Doodlenet github page and p5 sketch. My project actually uses the original Doodlenet sketch as a base, and I built features onto that original sketch to fit my purpose. Other sources I used were the p5 documentation pages, as well as Stack Overflow and Chat GPT for miscellaneous code questions. The dictionary that uses all 345 possible responses from Doodlenet and ties them to a emotional category is the most notable contribution I got from Chat GPT. 
 
+![image](finalProjTest.png)
+Example of the final build in action
+
 If I were to continue working on this project, I would definitely want to expand more on the music front. Better remixing and more variables of tracks, and more possible tracks period. AI generated tracks would be interesting, but I did experiment with those for a bit and thought they sounded atrocious. Nevertheless, it could be a path worth exploring further
 
-
+[Link to the project](https://editor.p5js.org/rqu/sketches/FgVxY380Q)
 
 Assets:
 ![eraser](https://github.com/user-attachments/assets/8b928021-4ea5-4a0f-ac5d-c2819a594025) ![brush](https://github.com/user-attachments/assets/ff6833c9-0025-49b5-9cf7-af127785a738)
