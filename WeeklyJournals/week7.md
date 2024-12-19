@@ -8,10 +8,10 @@ The model transparency index did not surprise me in that almost all of the model
 ## Ollama
 My experimentation with Ollama was definitely less than ideal, but I was eventually able to play around with it. Originally, I installed Ollama in class the day of, but was unable to get it running. When I came back to it, attempting to run the chat bot claimed that Ollama was not recognized. I searched up Github documentation to see if there were any ways to resolve this, and after following various strategies, none of them seemed to work. Eventually, I chose the nuclear option and decided to just reinstall Ollama. However, even uninstalling Ollama gave me issues, as attempting to do so through App manager and powershell claimed that files relating to uninstallation were missing. I finally re-ran the installer of Ollama, followed by an uninstallation, and finally another re-installation to fix my issues. After this ordeal, I was finally able to get Ollama running.
 
-
+![image](ollamaWorking.png)
 
 After getting Ollama running, I started by asking it some simple questions, as well as some random bogus questions I knew it would not have the answer to. It was interesting to see it attempt to respond, as it would say that it did not know what the questions meant or referred to, but would attempt to give educated (or random?) guesses. Finally, I decided to see if the model could understand and respond in another language. Recently, I took Elementary German, so I decided to ask a question in German. I also recalled from a previous conversation that LLMs struggled with math problems, so I decided to include a math problem in my question.
 
-
+![image](ollamaExperimentation.png)
 
 Ollama was able to respond in German, but due to my own limited speaking ability, I'm unsure if its response was accurate. However, Google translate seems to have understood the response, so I think it is probably accurate. However, the math problem ended up being incorrect. The incorrect response once again reminded me of the collage like response that LLMs generate, as unless it had data explicitly asking this exact math question, it would not be able to generate a response, and in this case it seemingly could not. In the future, it would be interesting to try and further test and possibly build something with this LLM, or further testing its limitations. 
